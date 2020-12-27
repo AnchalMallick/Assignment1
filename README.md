@@ -1,1 +1,1 @@
-# Assignment1
+We are building a deep neural network(DNN) which contains 20 hidden layers,each consisting of 100 units,and a softmax output layer. Our aim is to get a baseline model for multiclass-classification and then testing it in various scenarios.
