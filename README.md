@@ -1,1 +1,1 @@
-We are building a deep neural network(DNN) which contains 20 hidden layers,each consisting of 100 units,and a softmax output layer. Our aim is to get a baseline model for multiclass-classification and then testing it in various scenarios.
+We are building a deep neural network(DNN) which contains 20 hidden layers,each consisting of 100 units,and a softmax output layer. Our aim is to get a baseline model trained on the CIFAR10 dataset for multiclass-classification and then testing it in various scenarios.
